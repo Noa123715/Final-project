@@ -3,7 +3,6 @@
 <h1>DevConnect Web App!</h1>
 
 
-
 <h2>Development Team documentation:</h2>
 
 <h4>Part 1:</h4>
